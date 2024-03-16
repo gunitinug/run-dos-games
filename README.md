@@ -12,4 +12,4 @@ My private script to run dos games
 > 
 > Enter the number: 3
 
-This time you've choen item number 3, which is to execute `run-z-game.sh` script.
+This time you've chosen item number 3, which is to execute `run-z-game.sh` script.
